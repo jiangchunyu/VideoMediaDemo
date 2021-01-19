@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">VideoMediaDemo</string>
+    <array name="video_type">
+        <item>MP4</item>
+        <item>m3u8</item>
+        <item>mkv</item>
+    </array>
+    <array name="player_type">
+        <item>IjkVideoPlayer</item>
+        <item>TBSVideoPlayer</item>
+        <item>EXOVideoPlayer</item>
+        <item>NativePlayer</item>
+    </array>
+</resources>
